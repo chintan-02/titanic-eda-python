@@ -1,0 +1,24 @@
+
+🚢 Exploring Data Before Building Models — Titanic EDA  
+
+Exploratory Data Analysis (EDA) is a crucial step before any machine learning model. I applied EDA techniques on the Titanic dataset to understand patterns, relationships, and data quality.  
+
+🔍 What I did:  
+• Loaded and explored dataset using Pandas  
+• Checked missing values and data types  
+• Performed univariate & bivariate analysis  
+• Visualized patterns using Seaborn & Matplotlib  
+
+📊 Key Insights:  
+• Female passengers had higher survival rates  
+• Passengers in 1st class had better chances of survival  
+• Age distribution showed most passengers were young adults  
+
+💡 Key Learning:  
+Understanding data is more important than jumping directly into modeling. Strong EDA helps build better and more reliable machine learning models.  
+
+📌 This project helped me strengthen my fundamentals and build a solid foundation in data analysis and problem-solving using Python.  
+
+🛠 Tools: Python | Pandas | Seaborn | Matplotlib  
+
+#DataScience #EDA #Python #MachineLearning #Analytics
