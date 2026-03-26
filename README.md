@@ -9,7 +9,18 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on the Ti
 ## 📸 App Preview
 
 ### 🏠 Dashboard
+
+### 📸 App Preview
 ![App](screenshots/app.png)
+
+### 🧍 Survival Count
+![Survival](screenshots/survival.png)
+
+### 🎂 Age Distribution
+![Age](screenshots/age.png)
+
+### 🔥 Correlation Matrix
+![Heatmap](screenshots/heatmap.png)
 
 ---
 
