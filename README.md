@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Analysis App
 
-🌐 **Live Demo:** https://titanic-eda-python-hgc2ifpppijhpnwsjlxgsd.streamlit.app  
+🌐 **Live Demo:** https://titanic-eda-python-hgc2ifpppijnhpwsjlxgsd.streamlit.app/  
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** on the Titanic dataset and presenting insights through an **interactive Streamlit web application**.
 
